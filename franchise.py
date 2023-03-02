@@ -1,5 +1,5 @@
 from order_factory import Order_Factory
-from logger import Logger
+from logger import logger
 
 class Franchise:
     def __init__(self, store_id) -> None:
@@ -10,7 +10,7 @@ class Franchise:
 
         order = Order_Factory.create_order(user_choice)
 
-        Logger.log_transaction(order, self.store_id)
+        logger.log_transaction(order, self.store_id)
 
         
 

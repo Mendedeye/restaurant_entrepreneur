@@ -1,0 +1,97 @@
+
+        Transaction:  1
+        Meal Ordered: Salad
+        Store ID:     206
+        Item Price:   12
+        Daily Income  12
+        ________________________________________
+        Transaction:  1
+        Meal Ordered: Pizza
+        Store ID:     206
+        Item Price:   15
+        Daily Income  15
+        ________________________________________
+        Transaction:  2
+        Meal Ordered: Salad
+        Store ID:     206
+        Item Price:   12
+        Daily Income  27
+        ________________________________________
+        Transaction:  3
+        Meal Ordered: Pasta
+        Store ID:     206
+        Item Price:   13
+        Daily Income  40
+        ________________________________________
+        Transaction:  4
+        Meal Ordered: Pasta
+        Store ID:     206
+        Item Price:   13
+        Daily Income  53
+        ________________________________________
+        Transaction:  5
+        Meal Ordered: Pasta
+        Store ID:     206
+        Item Price:   13
+        Daily Income  66
+        ________________________________________
+        Transaction:  6
+        Meal Ordered: Pizza
+        Store ID:     124
+        Item Price:   15
+        Daily Income  81
+        ________________________________________
+        Transaction:  7
+        Meal Ordered: Salad
+        Store ID:     124
+        Item Price:   12
+        Daily Income  93
+        ________________________________________
+        Transaction:  8
+        Meal Ordered: Salad
+        Store ID:     124
+        Item Price:   12
+        Daily Income  105
+        ________________________________________
+        Transaction:  9
+        Meal Ordered: Pizza
+        Store ID:     124
+        Item Price:   15
+        Daily Income  120
+        ________________________________________
+        Transaction:  10
+        Meal Ordered: Pasta
+        Store ID:     124
+        Item Price:   13
+        Daily Income  133
+        ________________________________________
+        Transaction:  11
+        Meal Ordered: Salad
+        Store ID:     319
+        Item Price:   12
+        Daily Income  145
+        ________________________________________
+        Transaction:  12
+        Meal Ordered: Pizza
+        Store ID:     319
+        Item Price:   15
+        Daily Income  160
+        ________________________________________
+        Transaction:  13
+        Meal Ordered: Pasta
+        Store ID:     319
+        Item Price:   13
+        Daily Income  173
+        ________________________________________
+        Transaction:  14
+        Meal Ordered: Salad
+        Store ID:     319
+        Item Price:   12
+        Daily Income  185
+        ________________________________________
+        Transaction:  15
+        Meal Ordered: Pizza
+        Store ID:     319
+        Item Price:   15
+        Daily Income  200
+        ________________________________________

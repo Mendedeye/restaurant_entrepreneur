@@ -16,4 +16,4 @@ class Logger:
         ________________________________________""")
         file.close()
 
-loger = Logger()
+logger = Logger()

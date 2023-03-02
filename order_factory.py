@@ -7,9 +7,9 @@ entry_error = -1
 class Order_Factory:
     @staticmethod
     def create_order(dish_name):
-        if  dish_name is "pizza":
+        if  dish_name == "pizza":
             return Pizza()
-        elif dish_name is "pasta":
+        elif dish_name == "pasta":
             return Pasta()
-        elif dish_name is "salad":
+        elif dish_name == "salad":
             return Salad()
